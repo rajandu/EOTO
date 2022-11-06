@@ -1,0 +1,13 @@
+<vector android:height="24dp" android:viewportHeight="114"
+    android:viewportWidth="114" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/random" android:pathData="M21,54H1a1,1 0,0 1,-1 -1V45a1,1 0,0 1,1 -1H21a1,1 0,0 1,1 1v8A1,1 0,0 1,21 54ZM2,52H20V46H2Z"/>
+    <path android:fillColor="@color/random" android:pathData="M113,54H93a1,1 0,0 1,-1 -1V45a1,1 0,0 1,1 -1h20a1,1 0,0 1,1 1v8A1,1 0,0 1,113 54ZM94,52h18V46H94Z"/>
+    <path android:fillColor="@color/random" android:pathData="M61,30h-0.11a1,1 0,0 1,-0.78 -0.54l-4,-8a1,1 0,0 1,0.11 -1.07l16,-20a1,1 0,0 1,1.67 0.17l4,8a1,1 0,0 1,-0.11 1.07l-16,20A1,1 0,0 1,61 30ZM58.18,21.12 L61.18,27.12L75.82,8.88l-3,-6Z"/>
+    <path android:fillColor="@color/random" android:pathData="M93,114L21,114a1,1 0,0 1,-1 -1L20,46L1,46a1,1 0,0 1,-1 -1A37,37 0,0 1,37 8a1,1 0,0 1,0.78 0.38l15,18.77 3.31,-6.6a1,1 0,0 1,1.78 0l3.31,6.6 15,-18.77A1,1 0,0 1,77 8a37,37 0,0 1,37 37,1 1,0 0,1 -1,1L94,46v67A1,1 0,0 1,93 114ZM22,112L92,112L92,45a1,1 0,0 1,1 -1h19A35.05,35.05 0,0 0,77.48 10L61.78,29.62a1,1 0,0 1,-1.67 -0.17L57,23.24l-3.11,6.21a1,1 0,0 1,-1.67 0.17L36.52,10A35.05,35.05 0,0 0,2 44L21,44a1,1 0,0 1,1 1Z"/>
+    <path android:fillColor="@color/random" android:pathData="M57,22a1,1 0,0 1,-0.78 -0.38l-16,-20A1,1 0,0 1,40.1 0.57,1 1,0 0,1 41,0H73a1,1 0,0 1,0.9 0.57,1 1,0 0,1 -0.12,1.05l-16,20A1,1 0,0 1,57 22ZM43.08,2 L57,19.4 70.92,2Z"/>
+    <path android:fillColor="@color/random" android:pathData="M45.25,40h-16a1,1 0,0 1,0 -2h16a1,1 0,0 1,0 2Z"/>
+    <path android:fillColor="@color/random" android:pathData="M93,46a1,1 0,0 1,-1 -1V37a1,1 0,0 1,2 0v8A1,1 0,0 1,93 46Z"/>
+    <path android:fillColor="@color/random" android:pathData="M21,46a1,1 0,0 1,-1 -1V37a1,1 0,0 1,2 0v8A1,1 0,0 1,21 46Z"/>
+    <path android:fillColor="@color/random" android:pathData="M61,114L53,114a1,1 0,0 1,-1 -1L52,29a1,1 0,0 1,0.11 -0.45l4,-8a1,1 0,0 1,1.78 0l4,8A1,1 0,0 1,62 29v84A1,1 0,0 1,61 114ZM54,112h6L60,29.24l-3,-6 -3,6Z"/>
+    <path android:fillColor="@color/random" android:pathData="M53,30a1,1 0,0 1,-0.78 -0.38l-16,-20a1,1 0,0 1,-0.11 -1.07l4,-8A1,1 0,0 1,41.78 0.38l16,20a1,1 0,0 1,0.11 1.07l-4,8a1,1 0,0 1,-0.78 0.54ZM38.18,8.88 L52.8,27.15l3,-6L41.2,2.85Z"/>
+</vector>

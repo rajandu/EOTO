@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138883807717",
+    "project_id": "eoto-566e5",
+    "storage_bucket": "eoto-566e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138883807717:android:eebed9ab38885c9c71570c",
+        "android_client_info": {
+          "package_name": "in.eoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138883807717-6o6nk6pqulru4dd0bgmodomvso7hluap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEzBttqyf6XRdnsVaY9OgRO9aIaJmD3r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138883807717-6o6nk6pqulru4dd0bgmodomvso7hluap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
